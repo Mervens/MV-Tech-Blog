@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OwaisIslam/tech-blog.git"
+    "url": "git+https://github.com/Mervens/MV-Tech-Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OwaisIslam/tech-blog/issues"
+    "url": "https://github.com/Mervens/MV-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/OwaisIslam/tech-blog#readme"
+  "homepage": "https://github.com/Mervens/MV-Tech-Blog#readme"
 }
