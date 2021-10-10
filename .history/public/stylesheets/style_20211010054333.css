@@ -52,6 +52,7 @@ button:hover {
 
 .headbar {
     padding-top: 10px;
+    justify-content: left;
 }
 .post-list {
     margin: 0;
